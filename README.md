@@ -8,9 +8,8 @@
 
 <br/>
 
-[![RMIT University](https://img.shields.io/badge/RMIT_University-Dual_Degree-6425C7?style=for-the-badge)](https://www.rmit.edu.au/)
-[![BITS Pilani](https://img.shields.io/badge/BITS_Pilani-K.K._Birla_Goa-6425C7?style=for-the-badge)](https://www.bits-pilani.ac.in/goa)
-[![GPA](https://img.shields.io/badge/GPA-3.8%2F4.0-A78BFA?style=for-the-badge)](#)
+[![RMIT University](https://img.shields.io/badge/RMIT_University-6425C7?style=for-the-badge)](https://www.rmit.edu.au/)
+[![BITS Pilani Goa Campus](https://img.shields.io/badge/BITS_Pilani_Goa_Campus-6425C7?style=for-the-badge)](https://www.bits-pilani.ac.in/goa)
 [![Location](https://img.shields.io/badge/Location-Melbourne%2C_Australia-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 <br/>
@@ -31,11 +30,11 @@
 
 ## About Me
 
-I'm Sripathi — a penultimate-year Software Engineering student pursuing a dual Bachelor's degree between **RMIT University** (Melbourne, Australia) and **BITS Pilani, K.K. Birla Goa Campus** (India), graduating in 2028 with a **3.8/4.0 GPA**.
+I'm Sripathi — a penultimate-year Software Engineering student studying at **RMIT University** (Melbourne, Australia) and **BITS Pilani Goa Campus** (India), graduating in 2028.
 
 I build full-stack and AI-powered products end to end — architecture, interface, CI/CD, and deployment — with a product engineering mindset: ship something real, then iterate on the rough edges. Recent work spans voice-driven mobile apps, applied NLP pipelines, and LLM API integrations.
 
-I'm currently interning at **DefiRilla**, a DeFi wallet monitoring and alerts platform, working directly with the founder on customer experience and growth initiatives.
+I recently interned at **DefiRilla**, a DeFi wallet monitoring and alerts platform, working directly with the founder on customer experience and growth initiatives.
 
 ### Open To
 - Software Engineering Internships (2026 – 2027)
@@ -163,8 +162,8 @@ Collaborated within a team to design the database schema and build the tracking 
 
 ## Experience
 
-### Software Engineering Intern — DefiRilla
-**June 2026 – Present**
+### Intern — DefiRilla
+**June 2026 – August 2026**
 
 DeFi wallet monitoring and alerts platform.
 
@@ -191,7 +190,6 @@ Job-simulation exercise focused on financial inclusion.
 | Recognition | Details |
 |---|---|
 | Academic Excellence | 96% in Year 10, 90.4% in Year 12 (senior secondary) |
-| Dual-Degree GPA | 3.8/4.0 across a dual RMIT–BITS Pilani software engineering program |
 | DevSoc Membership | Developer / Member, Developer's Society, BITS Pilani Goa (2024 – 2026) |
 | CTF Competitor | Competed in multiple Capture The Flag cybersecurity competitions |
 | Community Involvement | Volunteering with FoodBank Victoria (Melbourne) and Abhigyaan, BITS Pilani Goa |
@@ -258,6 +256,5 @@ current_focus:
 
 *Building things that work, then making them better.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,50:4C1D95,100:0D1117&height=150&section=footer" width="100%" />
 
 </div>
