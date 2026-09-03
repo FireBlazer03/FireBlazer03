@@ -208,41 +208,6 @@ Job-simulation exercise focused on financial inclusion.
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=FireBlazer03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=E9D8FD" width="48%" />
-<img src="https://streak-stats.demolab.com?user=FireBlazer03&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FireBlazer03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E9D8FD" width="48%" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=FireBlazer03&theme=algolia&no-frame=true&row=2&column=4" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FireBlazer03&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=E9D8FD" width="95%" />
-
-</div>
-
----
-
 ## Contribution Snake
 
 <div align="center">
