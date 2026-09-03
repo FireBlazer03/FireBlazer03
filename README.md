@@ -160,21 +160,6 @@ Collaborated within a team to design the database schema and build the tracking 
 
 ---
 
-## Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| Academic Excellence | 96% in Year 10, 90.4% in Year 12 (senior secondary) |
-| DevSoc Membership | Developer / Member, Developer's Society, BITS Pilani Goa (2024 – 2026) |
-| CTF Competitor | Competed in multiple Capture The Flag cybersecurity competitions |
-| Community Involvement | Volunteering with FoodBank Victoria (Melbourne) and Abhigyaan, BITS Pilani Goa |
-
-</div>
-
----
-
 ## Certifications
 
 **Coursera / DeepLearning.AI**
