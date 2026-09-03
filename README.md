@@ -160,29 +160,6 @@ Collaborated within a team to design the database schema and build the tracking 
 
 ---
 
-## Experience
-
-### Intern — DefiRilla
-**June 2026 – August 2026**
-
-DeFi wallet monitoring and alerts platform.
-
-- Worked closely with the founder to identify and implement improvements to the platform's customer experience
-- Contributed to initiatives that helped grow the platform's customer base
-
-`Startup Environment` `Product Thinking` `Customer Experience` `DeFi`
-
-### Forage Virtual Experience — CommBank "Next Chapter" Program
-**2026**
-
-Job-simulation exercise focused on financial inclusion.
-
-- Completed a job-simulation exercise, producing a presentation on financial abuse awareness for CommBank's Next Chapter initiative
-
-`Job Simulation` `Presentation` `Financial Inclusion`
-
----
-
 ## Achievements
 
 <div align="center">
