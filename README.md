@@ -34,8 +34,6 @@ I'm Sripathi — a penultimate-year Software Engineering student studying at **R
 
 I build full-stack and AI-powered products end to end — architecture, interface, CI/CD, and deployment — with a product engineering mindset: ship something real, then iterate on the rough edges. Recent work spans voice-driven mobile apps, applied NLP pipelines, and LLM API integrations.
 
-I recently interned at **DefiRilla**, a DeFi wallet monitoring and alerts platform, working directly with the founder on customer experience and growth initiatives.
-
 ### Open To
 - Software Engineering Internships (2026 – 2027)
 - AI / ML Engineering opportunities
